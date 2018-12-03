@@ -1,0 +1,6 @@
+-r requirements.txt
+
+setuptools>=38.6.0
+wheel>=0.31.0
+pytest
+pytest-cov
